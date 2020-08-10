@@ -13,4 +13,8 @@
 
 </p>
 
-<h1 align="center">👋 Hi there 👋</h1>
+<h1 align="center">👋 WELCOME 👋</h1>
+
+*Hi there, i'm 15 y.o engaged in development of Telegram Discord, Vkontakte bots and forking mod open source projects. My first interest in programming arose when a five year ago, since then I has actively looking for myself in the development of various applications in different languages and platforms*
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=izzyflame&show_icons=true&icon_color=FFF&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)

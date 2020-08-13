@@ -4,5 +4,4 @@
 I has actively looking for myself in the development of various applications in different languages and platforms.**
 
 - 🎨 Also work as a designer my own projects, if you have any suggestions write [here](https://github.com/izzyflame/izzyflame/issues).
-## Statistic
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=izzyflame&show_icons=true&icon_color=FFF&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+- 💬 Contact via [Telegram](https://tg:resolve?domain=t4ndca1)

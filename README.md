@@ -4,4 +4,4 @@
 I has actively looking for myself in the development of various applications in different languages and platforms.**
 
 - 🎨 Also work as a designer my own projects, if you have any suggestions write [here](https://github.com/izzyflame/izzyflame/issues).
-- 💬 Contact via [Telegram](https://tg:resolve?domain=t4ndca1)
+- 💬 Contact via [Telegram](tg://resolve?domain=t4ndca1)
